@@ -1,0 +1,8 @@
+Test Octave Up and Down
+test
+5
+0.2 C 1 NATURAL false
+0.4 F 1 NATURAL false
+0.2 F 10 NATURAL false
+0.4 G 10 NATURAL false
+0.6 F 1 NATURAL false
